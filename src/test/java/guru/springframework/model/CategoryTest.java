@@ -1,5 +1,6 @@
 package guru.springframework.model;
 
+import guru.springframework.domain.Category;
 import org.junit.Before;
 import org.junit.Test;
 
